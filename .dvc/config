@@ -1,0 +1,6 @@
+[core]
+    remote = gdrive-remote
+['remote "gdrive-remote"']
+    url = gdrive://1Y53Hl053sN2ItuJ3PqqWi6h2102cjyEj
+    gdrive_use_service_account = true
+    gdrive_service_account_json_file_path =C:\temp\Labo Mineria.json
